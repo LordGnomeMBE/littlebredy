@@ -1,0 +1,37 @@
+<style>
+.container {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  width: 400px; 
+  padding: 10px;
+  background: white;
+  color: black;
+  font-family: Tahoma;
+  text-align: center;
+}
+a:link {
+  color: black;
+  text-decoration: none;
+}
+a:visited {
+  color: black;
+}
+ a:hover {
+  color: black;
+  text-decoration: underline;
+}
+a:active {
+  color: black;
+  text-decoration: underline;
+}
+</style>
+<div class="container">
+  <div class="center">
+  <span style=""><a href="">← Back To Start</a></span>
+  <img style="vertical-align:middle; border-radius: 90995px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Bridehead_House_from_the_Littlebredy_road_-_geograph.org.uk_-_415796.jpg" width="100px" style="">
+  <span style=""><a href="">Skip to End →</a></span>
+  </div>
+</div>
+<!--- https://stackoverflow.com/a/32056298--->
