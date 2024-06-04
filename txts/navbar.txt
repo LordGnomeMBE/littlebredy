@@ -6,6 +6,7 @@
 .center {
   width: 400px; 
   padding: 10px;
+  padding-top: 0;
   background: white;
   color: black;
   font-family: Tahoma;
@@ -27,10 +28,11 @@ a:active {
   text-decoration: underline;
 }
 </style>
+<p1 class="container" style="text-align: center; Font-Family: Tahoma; font-size: 10;">Proposals, drawings and site code by Caleb Morris O'Connell,</p1><p1 class="container"><i>for</i></p1><p1 class="container" style="font-size: 20"><b>Bridehead & Littlebredy in the County of Dorset</b></p1>
 <div class="container">
   <div class="center">
   <span style=""><a href="">← Back To Start</a></span>
-  <img style="vertical-align:middle; border-radius: 90995px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Bridehead_House_from_the_Littlebredy_road_-_geograph.org.uk_-_415796.jpg" width="100px" style="">
+  <img style="vertical-align:middle; border-radius: 90995px; padding: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Bridehead_House_from_the_Littlebredy_road_-_geograph.org.uk_-_415796.jpg" width="130px" style="">
   <span style=""><a href="">Skip to End →</a></span>
   </div>
 </div>
