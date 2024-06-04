@@ -1,1 +1,8 @@
 <p1 style="text-align:center">This is a test .txt file.</p1>
+<button type="button" onclick="myFunction()">Click me!</button>
+
+<script>
+function myFunction() {
+  document.write("Hello World");
+}
+</script>
